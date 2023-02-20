@@ -8,6 +8,11 @@ layout: 2017/sheet
 ### Running Locally (Functions G4)
 
 ```
+**MAKE SURE TO ONLY USE LATEST RUNTIME VERSIONS! **
+For example, Node 18.0.
+
+---
+
 1. Clone Appwrite:
 --> git clone https://github.com/appwrite/appwrite.git
 
