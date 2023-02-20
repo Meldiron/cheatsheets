@@ -20,6 +20,9 @@ layout: 2017/sheet
 4. Ensure Appwrite is down, and wipe all data (users, projects..):
 --> docker compose down -v
 
+6. Pull Appwrite Console:
+--> git submodule update --init --recursive
+
 5. Build Appwrite:
 --> docker compose build
 
