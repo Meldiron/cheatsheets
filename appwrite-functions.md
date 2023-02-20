@@ -69,6 +69,14 @@ module.exports = async (context) => {
 }
 ```
 
+### Redirect Response
+
+```js
+module.exports = async (context) => {
+    return context.res.redirect('https://google.com/');
+}
+```
+
 ### Image Response
 
 ```js
